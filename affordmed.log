@@ -1,0 +1,73 @@
+[2026-05-02 10:58:05] [INFO] [PriorityInbox] Starting Priority Inbox - fetching top 10 notifications
+[2026-05-02 10:58:05] [INFO] [PriorityInbox] Calling API: http://20.207.122.201/evaluation-service/notifications
+[2026-05-02 10:58:05] [INFO] [PriorityInbox] Response status: 401
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Starting Priority Inbox - fetching top 10 notifications
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Calling API: http://20.207.122.201/evaluation-service/notifications
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Response status: 200
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=8dbda6e2-f927-4150-8b4e-9b4d59eb4f0b Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=4313f08a-3d9c-4336-a97f-077776eb87c6 Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=c47ecc21-f7c0-42fc-a5ac-742a7727c6df Type=Result
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=0177b665-7e0a-463e-8d98-900f519435f6 Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=f0b01a76-4726-4b11-b1bc-e52fe198e82a Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=ac78cbe6-9d8a-4380-a66c-8654fc49799e Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=6ccf5577-85b1-4166-a0b3-9cd2957fd404 Type=Event
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=469d3432-0f43-4e96-b692-ad85b6980e9f Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=973b85ea-6f3b-49b4-af6e-d36a877c10a6 Type=Result
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=4507c124-61b0-4f5e-bd92-cd7906b56b90 Type=Result
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=60ec9b5a-871b-436b-b1d0-021752c2f946 Type=Event
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=687ef925-5171-47c4-838e-69adb81fd231 Type=Event
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=7c70e1b7-4ab8-42c9-b3d2-5f131c2ea1ee Type=Result
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=98ebb88f-32a4-4f7f-b0c1-5481a65e1627 Type=Result
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=41d9b4b1-d88f-4e84-9b1f-aac24f6f63e2 Type=Result
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=f58454ee-4e2b-4970-a242-b9d97a4a537e Type=Placement
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=60a6ec50-a4c4-4b7b-8a97-22f6df4ae4b8 Type=Event
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=457d9acf-a905-47ca-ae6b-5930935e5fd4 Type=Event
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=7f620a76-8432-4b9c-bb54-4ac92c826314 Type=Event
+[2026-05-02 11:01:41] [DEBUG] [PriorityInbox] Parsed notification ID=eaf0f792-aadc-42e5-8989-46ad6ca786f7 Type=Result
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Total notifications fetched: 20
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] ===== TOP 10 PRIORITY NOTIFICATIONS =====
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 1 | Type: Placement | Message: Alphabet Inc. Class A hiring | Time: 2026-05-02T02:01:39 | Score: 3000.0018
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 2 | Type: Placement | Message: Tesla Inc. hiring | Time: 2026-05-02T00:01:21 | Score: 3000.0015
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 3 | Type: Placement | Message: Nvidia Corporation hiring | Time: 2026-05-01T23:00:09 | Score: 3000.0014
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 4 | Type: Placement | Message: Visa Inc. hiring | Time: 2026-05-01T21:01:15 | Score: 3000.0012
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 5 | Type: Placement | Message: Amgen Inc. hiring | Time: 2026-05-01T15:01:09 | Score: 3000.0008
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 6 | Type: Placement | Message: Apple Inc. hiring | Time: 2026-05-01T12:30:57 | Score: 3000.0007
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 7 | Type: Placement | Message: Apple Inc. hiring | Time: 2026-05-01T06:31:33 | Score: 3000.0006
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 8 | Type: Result | Message: project-review | Time: 2026-05-02T01:59:45 | Score: 2000.0018
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 9 | Type: Result | Message: project-review | Time: 2026-05-02T00:00:21 | Score: 2000.0015
+[2026-05-02 11:01:41] [INFO] [PriorityInbox] Rank 10 | Type: Result | Message: project-review | Time: 2026-05-01T20:00:27 | Score: 2000.0011
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Starting Priority Inbox - fetching top 10 notifications
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Calling API: http://20.207.122.201/evaluation-service/notifications
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Response status: 200
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=27e1977f-5ff6-4475-a814-fc5a255c1580 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=cad2b701-5c92-4e51-b8c8-e8d1cd8c29b6 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=be91df5a-417f-4d4e-9726-cd6533949541 Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=8c87a0c1-0671-4525-aa7a-e26b089a6ffd Type=Result
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=ea023589-11b2-40f2-8ca1-e377a60599e6 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=ba61d9d8-8b81-45fd-9e02-87edcb7284ce Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=7030011f-c6de-426a-9342-b5414eeb2a49 Type=Result
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=f47be249-d39f-43eb-9231-bd7f4e36ffd0 Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=e9dc8369-7103-4d85-ac74-e6c34441f4a4 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=bc0b65f6-a8e8-4072-904b-a97f535d702d Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=6fc523ef-461a-4be9-9e5a-022486049660 Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=d531664a-9dc7-41e0-b773-f91824e0a58c Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=38621a7b-60a7-4d64-a02a-d2b42d2511fa Type=Result
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=2497771b-1d87-4c16-8c5e-e6c6d6ffab8e Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=04626f79-6fc5-4d71-b364-00bd47a30a32 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=d3865554-dc94-4402-83ab-1ceadd8e7cd0 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=c412a976-5090-4eef-a4a0-f882cbf533c3 Type=Placement
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=c462fbb0-4352-4711-9a3c-2348ec1db7e8 Type=Event
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=c771d23f-2338-45c5-bdb4-5d2bafd21ea3 Type=Result
+[2026-05-02 11:21:13] [DEBUG] [PriorityInbox] Parsed notification ID=66319e26-a2f0-4c07-bea7-8f76acba332b Type=Event
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Total notifications fetched: 20
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] ===== TOP 10 PRIORITY NOTIFICATIONS =====
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 1 | Type: Placement | Message: Microsoft Corporation hiring | Time: 2026-05-02T02:50:15 | Score: 3000.0020
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 2 | Type: Placement | Message: Tesla Inc. hiring | Time: 2026-05-01T20:50:39 | Score: 3000.0011
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 3 | Type: Placement | Message: Alphabet Inc. Class C hiring | Time: 2026-05-01T20:50:57 | Score: 3000.0011
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 4 | Type: Placement | Message: Alphabet Inc. Class A hiring | Time: 2026-05-01T17:49:51 | Score: 3000.0010
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 5 | Type: Placement | Message: TSMC hiring | Time: 2026-05-01T14:50:27 | Score: 3000.0008
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 6 | Type: Placement | Message: CSX Corporation hiring | Time: 2026-05-01T12:50:09 | Score: 3000.0007
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 7 | Type: Placement | Message: Marvell Technology Inc. hiring | Time: 2026-05-01T05:49:33 | Score: 3000.0006
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 8 | Type: Result | Message: end-sem | Time: 2026-05-01T19:50:51 | Score: 2000.0011
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 9 | Type: Result | Message: external | Time: 2026-05-01T17:50:33 | Score: 2000.0010
+[2026-05-02 11:21:13] [INFO] [PriorityInbox] Rank 10 | Type: Result | Message: external | Time: 2026-05-01T17:49:57 | Score: 2000.0010
